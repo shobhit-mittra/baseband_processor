@@ -9,7 +9,7 @@
 - Emphasis on correctness, modularity, and documenting design choices for future reuse.
 
 ## Deliverables
-- RTL sources under `/src`
-- Testbenches under `/tb`
+- RTL sources under `/src/Verilog`
+- Testbenches under `/src/tb`
 - Simulation & synthesis reports under `/results`
-- Final lab report draft under `docs/Report_Draft.md`
+- Final lab report draft under `docs/Report.md`
