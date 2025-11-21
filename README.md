@@ -37,7 +37,7 @@ Simulation results, timing reports, and ILA captures are stored under `/results`
 ## 🧩 Module Progress
 | Module | Status | Key Learning | Simulation Done | On-board Test |
 |:-------|:-------:|:-------------|:----------------:|:--------------:|
-| UART RX/TX | 🔄 In Progress | Baud timing, FSMs | ⬜ | 🔄 |
+| UART RX/TX | Done | Baud timing, FSMs | Done | Planned |
 | Huffman Encoder | ⏳ Planned | Tree construction, FSM sequencing | ⬜ | ⬜ |
 | FIFO | ⬜ | Data buffering | ⬜ | ⬜ |
 | Viterbi Encoder | ⬜ | Shift register logic | ⬜ | ⬜ |
